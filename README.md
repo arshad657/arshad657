@@ -1,7 +1,6 @@
+# Hey, I'm Arshad 👋
 
-<h3># Hey, I'm Arshad 👋
-
-I am a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=3000&color=F7F7F7&width=1150&height=40&lines=Frontend+engineer+%26+pixel+alchemist+turning+design+mockups+into+living%2C+breathing+web+experiences." alt="Typing SVG" />></h3>
+### I'm a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7F7F7&width=850&lines=frontend+engineer.;pixel+alchemist+turning+design+mockups+into+living+breathing+web+experiences." alt="Typing SVG" />
 
 <h2>personal projects tier list</h2>
 
