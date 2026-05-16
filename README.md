@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=5000&color=F7F7F7&width=1150&height=40&lines=Hi+this+is+Arshad,+a+Frontend+Engineer+crafting+living%2C+breathing+web+experiences." alt="Typing SVG" valign="middle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=5000&color=F7F7F7&width=1100&height=40&lines=Hi+this+is+Arshad%2C+a+Frontend+Engineer+crafting+living+%26+breathing+web+experiences." alt="Typing SVG" valign="middle" />
 
 <h2>personal projects tier list</h2>
 
