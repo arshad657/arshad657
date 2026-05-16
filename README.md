@@ -17,19 +17,17 @@
 
 ---
 
-<div>
-  <h4><b>💼 Architecture & Engineering Principles<b></h4>
+  <h3><b>💼 Architecture & Engineering Principles<b></h3>
   <br>
   <ul>
     <li>Architecting highly interactive client interfaces prioritizing strict <b>DRY</b> and <b>SOLID</b> code modularity.</li>
     <li>Optimizing development velocity through seamless integration of advanced generative AI workflows.</li>
     <li>Structuring server environments using automated process management, custom proxy rules, and deployment pipelines.</li>
   </ul>
-</div>
 
-<div>
-  <h4><b>🌱 Currently Deep-Diving</b></h4>
+---
+
+  <h3><b>🌱 Currently Deep-Diving</b></h3>
   <br>
   <p>Exploring complex client-side layout rendering budgets, component compilation overhead, and high-performance system designs.</p>
-</div>
 
