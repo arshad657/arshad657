@@ -1,4 +1,6 @@
-<h3>hey, i'm [Your Name] — a frontend engineer who loves creating products with beautiful user interfaces that live on the internet.</h3>
+<h3># Hey, I'm Arshad 👋
+
+### I'm a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7F7F7&width=850&lines=frontend+engineer.;pixel+alchemist+turning+design+mockups+into+living+breathing+web+experiences." alt="Typing SVG" /></h3>
 
 <h2>personal projects tier list</h2>
 
