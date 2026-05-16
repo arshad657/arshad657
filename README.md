@@ -17,35 +17,19 @@
 
 ---
 
-<details>
-  <summary><b>💼 Architecture & Engineering Principles</b></summary>
+<div>
+  <h4><b>💼 Architecture & Engineering Principles<b></h4>
   <br>
   <ul>
     <li>Architecting highly interactive client interfaces prioritizing strict <b>DRY</b> and <b>SOLID</b> code modularity.</li>
     <li>Optimizing development velocity through seamless integration of advanced generative AI workflows.</li>
     <li>Structuring server environments using automated process management, custom proxy rules, and deployment pipelines.</li>
   </ul>
-</details>
+</div>
 
-<details>
-  <summary><b>🌱 Currently Deep-Diving</b></summary>
+<div>
+  <h4><b>🌱 Currently Deep-Diving</b></h4>
   <br>
   <p>Exploring complex client-side layout rendering budgets, component compilation overhead, and high-performance system designs.</p>
-</details>
+</div>
 
----
-
-<h3>📊 Ecosystem Metrics</h3>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-</p>
-
----
-
-<h3>📬 Contribution Journey</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
