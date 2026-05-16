@@ -1,5 +1,5 @@
 <h3>Hey, I'm Arshad 👋</h3>
-<p align="left">
+<p align="left" size="16px" weight="500">
   I'm a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=F7F7F7&width=950&height=40&lines=Frontend+engineer+%26+pixel+alchemist+turning+design+mockups+into+living%2C+breathing+web+experiences." alt="Typing SVG" valign="middle" />
 </p>
 
