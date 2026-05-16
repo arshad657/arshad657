@@ -1,5 +1,4 @@
-<h3></h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=5000&color=F7F7F7&width=1200&height=80&multiLine=true&lines=Hey,+this+is+Arshad++,+a+frontend+engineer+%26+pixel+alchemist;turning+design+mockups+into+living%2C+breathing+web+experiences." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=5000&color=F7F7F7&width=950&height=40&lines=A+frontend+engineer+%26+pixel+alchemist+turning+design+mockups+into+living%2C+breathing+web+experiences." alt="Typing SVG" valign="middle" />
 
 <h2>personal projects tier list</h2>
 
